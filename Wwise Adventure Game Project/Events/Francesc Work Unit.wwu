@@ -21,6 +21,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Music_Region" ID="{7976C6B0-5885-4CD6-9E74-3A2DFE8E1089}"/>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
