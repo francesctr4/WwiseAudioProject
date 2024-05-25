@@ -902,6 +902,38 @@
 								<ItemRef Name="Axe" ID="{57AB1893-2CE3-487D-AA43-4423B6D5FB80}"/>
 							</GroupingBehavior>
 						</GroupingBehaviorList>
+						<GroupingList>
+							<Grouping>
+								<SwitchRef Name="Dagger" ID="{C9322F3D-6EEB-47E6-9D1E-B3B43A86D1E5}"/>
+								<ItemList>
+									<ItemRef Name="Dagger" ID="{F9F14101-A5F7-4EF2-A603-5051AB886F28}"/>
+								</ItemList>
+							</Grouping>
+							<Grouping>
+								<SwitchRef Name="Axe" ID="{9E556E70-C452-429C-9256-C2A6722B1F25}"/>
+								<ItemList>
+									<ItemRef Name="Axe" ID="{57AB1893-2CE3-487D-AA43-4423B6D5FB80}"/>
+								</ItemList>
+							</Grouping>
+							<Grouping>
+								<SwitchRef Name="Hammer" ID="{ABBC4F87-C0D7-435F-82C0-58240D977B13}"/>
+								<ItemList>
+									<ItemRef Name="Hammer" ID="{331F948A-2129-40DF-9D98-26FF27DF15EC}"/>
+								</ItemList>
+							</Grouping>
+							<Grouping>
+								<SwitchRef Name="PickAxe" ID="{43B2A2D6-9079-4CEF-93B6-F79F171CD519}"/>
+								<ItemList>
+									<ItemRef Name="PickAxe" ID="{03BBA535-C0D6-4087-9839-941E3838C73A}"/>
+								</ItemList>
+							</Grouping>
+							<Grouping>
+								<SwitchRef Name="Sword" ID="{CB56D4DC-73DA-4B91-AEE1-BF33B04B7CBD}"/>
+								<ItemList>
+									<ItemRef Name="Sword" ID="{F178FA31-7EDB-4D52-974B-436FD2B0AEC1}"/>
+								</ItemList>
+							</Grouping>
+						</GroupingList>
 					</GroupingInfo>
 				</SwitchContainer>
 			</ChildrenList>

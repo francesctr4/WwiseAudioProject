@@ -3,10 +3,10 @@
 	<Project Name="Wwise Adventure Game Project" GUID="{EADC6125-2FA6-4D3C-81C3-2FF5EBAA9922}" Generator="2022.1.5.8242"/>
 	<CacheRoot>../.cache</CacheRoot>
 	<Platforms>
-		<Platform Name="Windows" GUID="{8012FDCA-8F89-4FE6-B334-6D48E8093868}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../../../../../../Program Files (x86)/Audiokinetic/Wwise Adventure Game 2022.1.0.230/WwiseAdventureGame/WwiseAdventureGame_Data/StreamingAssets/Audio/GeneratedSoundBanks/Windows"/>
+		<Platform Name="Windows" GUID="{8012FDCA-8F89-4FE6-B334-6D48E8093868}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../../../../../Program Files (x86)/Audiokinetic/Wwise Adventure Game 2022.1.0.230/WwiseAdventureGame/WwiseAdventureGame_Data/StreamingAssets/Audio/GeneratedSoundBanks/Windows"/>
 	</Platforms>
 	<Languages>
 		<Language Name="English(US)" Id="684519430" GUID="{17F1FC9B-F0E8-41D3-9474-B688FBA96047}" Default="true" UseAsStandIn="true"/>
 	</Languages>
-	<FileHash>{6FE8F4EC-9C11-DDF9-F25C-8F4CD416FE9F}</FileHash>
+	<FileHash>{03BAD280-F861-5BDC-2448-3F6BF1A873E7}</FileHash>
 </ProjectInfo>
