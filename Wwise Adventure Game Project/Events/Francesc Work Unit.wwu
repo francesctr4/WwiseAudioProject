@@ -21,7 +21,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="Music_Region" ID="{7976C6B0-5885-4CD6-9E74-3A2DFE8E1089}"/>
+				<Event Name="Music_Region" ID="{7976C6B0-5885-4CD6-9E74-3A2DFE8E1089}">
+					<ChildrenList>
+						<Action Name="" ID="{33D0620A-42D7-4733-BC8D-A5A7E9BBCC1D}" ShortID="988438186">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Music Loop" ID="{3871943A-3140-4E3A-B506-37D5C0DF8085}" WorkUnitID="{EE10AE14-3C14-4820-ADE6-1BDD654923F7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
