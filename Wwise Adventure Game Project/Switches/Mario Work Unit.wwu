@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{C0DC3B7D-0BAC-4AE1-B289-56E46CB844C9}" SchemaVersion="110">
 	<Switches>
-		<WorkUnit Name="Mario Work Unit" ID="{C0DC3B7D-0BAC-4AE1-B289-56E46CB844C9}" PersistMode="Standalone"/>
+		<WorkUnit Name="Mario Work Unit" ID="{C0DC3B7D-0BAC-4AE1-B289-56E46CB844C9}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Player_Weapon_Type" ID="{AFEA979D-EE06-446C-82A4-B8EF5FA16B17}">
+					<ChildrenList>
+						<Switch Name="Axe" ID="{9E556E70-C452-429C-9256-C2A6722B1F25}"/>
+						<Switch Name="Dagger" ID="{C9322F3D-6EEB-47E6-9D1E-B3B43A86D1E5}"/>
+						<Switch Name="Hammer" ID="{ABBC4F87-C0D7-435F-82C0-58240D977B13}"/>
+						<Switch Name="PickAxe" ID="{43B2A2D6-9079-4CEF-93B6-F79F171CD519}"/>
+						<Switch Name="Sword" ID="{CB56D4DC-73DA-4B91-AEE1-BF33B04B7CBD}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
 	</Switches>
 </WwiseDocument>
