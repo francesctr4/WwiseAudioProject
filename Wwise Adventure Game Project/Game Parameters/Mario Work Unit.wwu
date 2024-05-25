@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2651777C-7234-47F1-8B2B-053670050594}" SchemaVersion="110">
+	<GameParameters>
+		<WorkUnit Name="Mario Work Unit" ID="{2651777C-7234-47F1-8B2B-053670050594}" PersistMode="Standalone"/>
+	</GameParameters>
+</WwiseDocument>

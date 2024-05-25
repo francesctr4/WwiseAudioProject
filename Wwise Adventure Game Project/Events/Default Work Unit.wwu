@@ -1,27 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{33E99B61-AE23-42E9-94C2-41CF184D26BA}" SchemaVersion="110">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{33E99B61-AE23-42E9-94C2-41CF184D26BA}" PersistMode="Standalone">
-			<ChildrenList>
-				<Event Name="Player_Footstep" ID="{EDF121B4-37FB-4A82-A052-5B66C78ADFAB}">
-					<ChildrenList>
-						<Action Name="" ID="{4D23A592-3814-4DE9-938D-513143EC813C}" ShortID="397605190">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Walk" ID="{16B53EDD-7974-4FB6-A49D-6ACE30C43812}" WorkUnitID="{EEA2D0CE-0C7D-4F34-88FB-2DBCA6F73C06}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-						<Action Name="" ID="{79C57929-F642-4400-B4A1-2F42CD14ABAA}" ShortID="220244983">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Run" ID="{4381218D-2425-4A36-B8DF-F4F6BA5DE911}" WorkUnitID="{EEA2D0CE-0C7D-4F34-88FB-2DBCA6F73C06}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-					</ChildrenList>
-				</Event>
-			</ChildrenList>
-		</WorkUnit>
+		<WorkUnit Name="Default Work Unit" ID="{33E99B61-AE23-42E9-94C2-41CF184D26BA}" PersistMode="Standalone"/>
 	</Events>
 </WwiseDocument>

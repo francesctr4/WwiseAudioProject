@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0EB730FA-E78F-4F4D-BB89-76548BA6F762}" SchemaVersion="110">
+	<InteractiveMusic>
+		<WorkUnit Name="Mario Work Unit" ID="{0EB730FA-E78F-4F4D-BB89-76548BA6F762}" PersistMode="Standalone"/>
+	</InteractiveMusic>
+</WwiseDocument>

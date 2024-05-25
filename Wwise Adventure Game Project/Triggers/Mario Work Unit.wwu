@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{31C01D2B-61CC-438F-ADE3-EC41B19BEBE3}" SchemaVersion="110">
+	<Triggers>
+		<WorkUnit Name="Mario Work Unit" ID="{31C01D2B-61CC-438F-ADE3-EC41B19BEBE3}" PersistMode="Standalone"/>
+	</Triggers>
+</WwiseDocument>
