@@ -5,10 +5,19 @@
 			<ChildrenList>
 				<SoundBank Name="General" ID="{545F22B9-E99A-423B-BD6C-475AEE0D7A90}">
 					<ObjectInclusionList>
+						<ObjectRef Name="UI_Inventory_Open" ID="{98BA35C2-2BEA-407D-B2A8-09E0CD17D58E}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Quest_Complete" ID="{BF00F494-DF86-414E-A58A-F0A8B2122CAD}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI_Inventory_Roll" ID="{ECDF08FA-4F54-4309-8924-301F738CAD54}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI_Inventory_Close" ID="{2CD04FCB-9491-434A-B31F-046B2D44DD3D}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Quest_CompleteCollection" ID="{8FF96862-E203-440C-8C77-A4213EB93C4E}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI_QuestRoll_Close" ID="{020D0A69-DED7-459F-B43A-71A38C6A4701}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Destruction_Container" ID="{2A30F459-BE84-4627-AEDA-07640CFC9E9A}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Player_WeaponImpact" ID="{A7369F7A-839A-476C-82AC-0386E776A432}" WorkUnitID="{22484103-5A76-4B23-884C-467A777268D6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI_QuestRoll_Show" ID="{212D710D-0316-483B-8F54-FD539A6FF69B}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Player_Footstep" ID="{EDF121B4-37FB-4A82-A052-5B66C78ADFAB}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Music_Region" ID="{7976C6B0-5885-4CD6-9E74-3A2DFE8E1089}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI_QuestRoll_Hide" ID="{780CECCD-84E8-4D34-83A4-EB70D2071359}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI_QuestRoll_Open" ID="{9B2E8046-5A6D-4D9E-8863-479779FF604A}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

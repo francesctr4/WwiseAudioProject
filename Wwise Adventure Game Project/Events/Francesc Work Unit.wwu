@@ -53,9 +53,39 @@
 				</Folder>
 				<Folder Name="Inventory" ID="{E340A30F-B66D-4E41-93A0-B468C227E022}" ShortID="507884321">
 					<ChildrenList>
-						<Event Name="UI_Inventory_Open" ID="{98BA35C2-2BEA-407D-B2A8-09E0CD17D58E}"/>
-						<Event Name="UI_Inventory_Close" ID="{2CD04FCB-9491-434A-B31F-046B2D44DD3D}"/>
-						<Event Name="UI_Inventory_Roll" ID="{ECDF08FA-4F54-4309-8924-301F738CAD54}"/>
+						<Event Name="UI_Inventory_Open" ID="{98BA35C2-2BEA-407D-B2A8-09E0CD17D58E}">
+							<ChildrenList>
+								<Action Name="" ID="{0C920CA6-E81C-4F3D-869D-CF8C00C15FE7}" ShortID="177421321">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="BAS_Inventory_Open" ID="{96DA1C29-6433-4BCF-9807-23EE55E20E70}" WorkUnitID="{EEA2D0CE-0C7D-4F34-88FB-2DBCA6F73C06}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="UI_Inventory_Close" ID="{2CD04FCB-9491-434A-B31F-046B2D44DD3D}">
+							<ChildrenList>
+								<Action Name="" ID="{3CF9409B-EA36-4B8C-8297-AAEF13908B1D}" ShortID="543545841">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="BAS_Inventory_Close" ID="{A0A173B6-C168-47AC-8029-710609DB836E}" WorkUnitID="{EEA2D0CE-0C7D-4F34-88FB-2DBCA6F73C06}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="UI_Inventory_Roll" ID="{ECDF08FA-4F54-4309-8924-301F738CAD54}">
+							<ChildrenList>
+								<Action Name="" ID="{6F8167C6-32AD-45FD-9519-F6D43995471D}" ShortID="475796881">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="BAS_Inventory_Scroll" ID="{7069CDA2-6529-4EBF-9E99-8E9091368A0B}" WorkUnitID="{EEA2D0CE-0C7D-4F34-88FB-2DBCA6F73C06}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 				<Folder Name="Music" ID="{D6627F6D-A98B-42A8-A372-55146E038AD0}" ShortID="1025363593">
@@ -97,12 +127,48 @@
 				</Folder>
 				<Folder Name="Quest Roll" ID="{ECB32A9C-9D90-401C-97EC-AD282235A121}" ShortID="639130101">
 					<ChildrenList>
-						<Event Name="UI_QuestRoll_Show" ID="{212D710D-0316-483B-8F54-FD539A6FF69B}"/>
-						<Event Name="UI_QuestRoll_Open" ID="{9B2E8046-5A6D-4D9E-8863-479779FF604A}"/>
-						<Event Name="UI_QuestRoll_Close" ID="{020D0A69-DED7-459F-B43A-71A38C6A4701}"/>
-						<Event Name="UI_QuestRoll_Hide" ID="{780CECCD-84E8-4D34-83A4-EB70D2071359}"/>
-						<Event Name="Quest_Complete" ID="{BF00F494-DF86-414E-A58A-F0A8B2122CAD}"/>
-						<Event Name="Quest_CompleteCollection" ID="{8FF96862-E203-440C-8C77-A4213EB93C4E}"/>
+						<Event Name="UI_QuestRoll_Show" ID="{212D710D-0316-483B-8F54-FD539A6FF69B}">
+							<ChildrenList>
+								<Action Name="" ID="{9CA65341-90BE-4749-84C7-5CDD0C7CD167}" ShortID="496188272"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="UI_QuestRoll_Open" ID="{9B2E8046-5A6D-4D9E-8863-479779FF604A}">
+							<ChildrenList>
+								<Action Name="" ID="{5F69E1C0-5D36-4DF0-9835-58348EC2082B}" ShortID="236099287">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="BAS_QuestRoll_Open" ID="{9A9A71D1-6AED-4049-9A9B-8613B9A03C18}" WorkUnitID="{EEA2D0CE-0C7D-4F34-88FB-2DBCA6F73C06}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="UI_QuestRoll_Close" ID="{020D0A69-DED7-459F-B43A-71A38C6A4701}">
+							<ChildrenList>
+								<Action Name="" ID="{BA4E09B8-C484-4A75-A0C9-6A268D1C9182}" ShortID="1064081457">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="BAS_QuestRoll_Close" ID="{A2B4B7B7-8C96-4764-98E9-09112CE26100}" WorkUnitID="{EEA2D0CE-0C7D-4F34-88FB-2DBCA6F73C06}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="UI_QuestRoll_Hide" ID="{780CECCD-84E8-4D34-83A4-EB70D2071359}">
+							<ChildrenList>
+								<Action Name="" ID="{C444742C-6651-4A34-833B-742AC7FFCE3F}" ShortID="43467585"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Quest_Complete" ID="{BF00F494-DF86-414E-A58A-F0A8B2122CAD}">
+							<ChildrenList>
+								<Action Name="" ID="{03F018D8-1B61-487D-8799-6D8F99199379}" ShortID="295553195"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Quest_CompleteCollection" ID="{8FF96862-E203-440C-8C77-A4213EB93C4E}">
+							<ChildrenList>
+								<Action Name="" ID="{E9BFEC37-9517-41EC-BF8F-D7D3CF68D9BC}" ShortID="253189557"/>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 			</ChildrenList>
