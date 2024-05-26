@@ -5,9 +5,31 @@
 			<ChildrenList>
 				<SoundBank Name="General" ID="{545F22B9-E99A-423B-BD6C-475AEE0D7A90}">
 					<ObjectInclusionList>
+						<ObjectRef Name="Destruction_Container" ID="{2A30F459-BE84-4627-AEDA-07640CFC9E9A}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Player_WeaponImpact" ID="{A7369F7A-839A-476C-82AC-0386E776A432}" WorkUnitID="{22484103-5A76-4B23-884C-467A777268D6}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Player_Footstep" ID="{EDF121B4-37FB-4A82-A052-5B66C78ADFAB}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Music_Region" ID="{7976C6B0-5885-4CD6-9E74-3A2DFE8E1089}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Cave" ID="{64D50947-6321-44F0-A4FA-3BA686A255C9}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Destruction_Crystal_Destroy" ID="{5A69179B-72A7-466B-88E6-E189DF65003F}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Desert" ID="{F138B4C8-075E-4631-8347-5854CE83D0B8}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Destruction_VolcanicBoulder_Impact" ID="{CA096AB3-5DC5-4143-A779-354A19386C8E}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Dungeon" ID="{28FFFE6E-C143-475A-9537-7AD454D2CFC5}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Destruction_Rock_Destroy" ID="{F736BC44-9F5A-4126-90A0-787837F5CB73}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

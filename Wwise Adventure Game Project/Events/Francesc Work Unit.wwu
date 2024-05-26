@@ -3,35 +3,108 @@
 	<Events>
 		<WorkUnit Name="Francesc Work Unit" ID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="Player_Footstep" ID="{EDF121B4-37FB-4A82-A052-5B66C78ADFAB}">
+				<Folder Name="Destruction" ID="{2B734C33-CDFC-46D6-AF0F-013A4E12E84F}" ShortID="419373766">
 					<ChildrenList>
-						<Action Name="" ID="{4D23A592-3814-4DE9-938D-513143EC813C}" ShortID="397605190">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Walk" ID="{16B53EDD-7974-4FB6-A49D-6ACE30C43812}" WorkUnitID="{EEA2D0CE-0C7D-4F34-88FB-2DBCA6F73C06}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-						<Action Name="" ID="{79C57929-F642-4400-B4A1-2F42CD14ABAA}" ShortID="220244983">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Run" ID="{4381218D-2425-4A36-B8DF-F4F6BA5DE911}" WorkUnitID="{EEA2D0CE-0C7D-4F34-88FB-2DBCA6F73C06}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
+						<Event Name="Destruction_Container" ID="{2A30F459-BE84-4627-AEDA-07640CFC9E9A}">
+							<ChildrenList>
+								<Action Name="" ID="{B9F9F774-ED06-469B-AF7E-2E3B22EACDD3}" ShortID="1018613775">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Container" ID="{0E040213-9702-4ADA-A135-680834D2ADF0}" WorkUnitID="{EEA2D0CE-0C7D-4F34-88FB-2DBCA6F73C06}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Destruction_Crystal_Destroy" ID="{5A69179B-72A7-466B-88E6-E189DF65003F}">
+							<ChildrenList>
+								<Action Name="" ID="{F01CB75D-0127-46D1-8F25-91B1A9BFB93A}" ShortID="49539772">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Crystal" ID="{19B5FB30-58F2-4035-946D-19B075563D0B}" WorkUnitID="{EEA2D0CE-0C7D-4F34-88FB-2DBCA6F73C06}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Destruction_Rock_Destroy" ID="{F736BC44-9F5A-4126-90A0-787837F5CB73}">
+							<ChildrenList>
+								<Action Name="" ID="{0979496A-96AA-495D-B86E-E254DA638227}" ShortID="984628921">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Rock" ID="{0D63D85B-D79A-41C1-A280-14EEFD722D13}" WorkUnitID="{EEA2D0CE-0C7D-4F34-88FB-2DBCA6F73C06}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Destruction_VolcanicBoulder_Impact" ID="{CA096AB3-5DC5-4143-A779-354A19386C8E}">
+							<ChildrenList>
+								<Action Name="" ID="{D0EE4D1E-F629-4FC4-A122-63F3AD3A62F7}" ShortID="256563241">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Volcanic Boulder" ID="{E7176B47-9FBB-48D6-8BCC-BE3FACA5B7F2}" WorkUnitID="{EEA2D0CE-0C7D-4F34-88FB-2DBCA6F73C06}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
-				</Event>
-				<Event Name="Music_Region" ID="{7976C6B0-5885-4CD6-9E74-3A2DFE8E1089}">
+				</Folder>
+				<Folder Name="Inventory" ID="{E340A30F-B66D-4E41-93A0-B468C227E022}" ShortID="507884321">
 					<ChildrenList>
-						<Action Name="" ID="{33D0620A-42D7-4733-BC8D-A5A7E9BBCC1D}" ShortID="988438186">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Music Loop" ID="{3871943A-3140-4E3A-B506-37D5C0DF8085}" WorkUnitID="{EE10AE14-3C14-4820-ADE6-1BDD654923F7}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
+						<Event Name="UI_Inventory_Open" ID="{98BA35C2-2BEA-407D-B2A8-09E0CD17D58E}"/>
+						<Event Name="UI_Inventory_Close" ID="{2CD04FCB-9491-434A-B31F-046B2D44DD3D}"/>
+						<Event Name="UI_Inventory_Roll" ID="{ECDF08FA-4F54-4309-8924-301F738CAD54}"/>
 					</ChildrenList>
-				</Event>
+				</Folder>
+				<Folder Name="Music" ID="{D6627F6D-A98B-42A8-A372-55146E038AD0}" ShortID="1025363593">
+					<ChildrenList>
+						<Event Name="Music_Region" ID="{7976C6B0-5885-4CD6-9E74-3A2DFE8E1089}">
+							<ChildrenList>
+								<Action Name="" ID="{33D0620A-42D7-4733-BC8D-A5A7E9BBCC1D}" ShortID="988438186">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Music Loop" ID="{3871943A-3140-4E3A-B506-37D5C0DF8085}" WorkUnitID="{EE10AE14-3C14-4820-ADE6-1BDD654923F7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Footsteps" ID="{6197435B-536F-4F04-A6CA-5059FD55A7DE}" ShortID="1034922687">
+					<ChildrenList>
+						<Event Name="Player_Footstep" ID="{EDF121B4-37FB-4A82-A052-5B66C78ADFAB}">
+							<ChildrenList>
+								<Action Name="" ID="{4D23A592-3814-4DE9-938D-513143EC813C}" ShortID="397605190">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Walk" ID="{16B53EDD-7974-4FB6-A49D-6ACE30C43812}" WorkUnitID="{EEA2D0CE-0C7D-4F34-88FB-2DBCA6F73C06}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{79C57929-F642-4400-B4A1-2F42CD14ABAA}" ShortID="220244983">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Run" ID="{4381218D-2425-4A36-B8DF-F4F6BA5DE911}" WorkUnitID="{EEA2D0CE-0C7D-4F34-88FB-2DBCA6F73C06}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Quest Roll" ID="{ECB32A9C-9D90-401C-97EC-AD282235A121}" ShortID="639130101">
+					<ChildrenList>
+						<Event Name="UI_QuestRoll_Show" ID="{212D710D-0316-483B-8F54-FD539A6FF69B}"/>
+						<Event Name="UI_QuestRoll_Open" ID="{9B2E8046-5A6D-4D9E-8863-479779FF604A}"/>
+						<Event Name="UI_QuestRoll_Close" ID="{020D0A69-DED7-459F-B43A-71A38C6A4701}"/>
+						<Event Name="UI_QuestRoll_Hide" ID="{780CECCD-84E8-4D34-83A4-EB70D2071359}"/>
+						<Event Name="Quest_Complete" ID="{BF00F494-DF86-414E-A58A-F0A8B2122CAD}"/>
+						<Event Name="Quest_CompleteCollection" ID="{8FF96862-E203-440C-8C77-A4213EB93C4E}"/>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
