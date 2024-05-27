@@ -941,6 +941,9 @@
 						<Folder Name="3D Emitters" ID="{5641D012-7261-4D28-80A9-DA8F94871F6A}" ShortID="804872546">
 							<ChildrenList>
 								<Sound Name="BAS_Crystal_Ringing" ID="{ECA6381D-E389-4F38-BF45-CE1F6AB9C6B4}" ShortID="206080358">
+									<PropertyList>
+										<Property Name="3DSpatialization" Type="int16" Value="1"/>
+									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F0AF7D2F-BC90-40E2-B882-42C11561D3B7}"/>
@@ -963,6 +966,9 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="BAS_ForestBirds" ID="{0825A63D-AC19-4819-82BF-6839FDA6207D}" ShortID="929906707">
+									<PropertyList>
+										<Property Name="3DSpatialization" Type="int16" Value="2"/>
+									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F0AF7D2F-BC90-40E2-B882-42C11561D3B7}"/>
@@ -985,6 +991,9 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="BAS_Lava" ID="{C2CAD909-469D-4508-88D5-8BC76EA306BD}" ShortID="977871720">
+									<PropertyList>
+										<Property Name="3DSpatialization" Type="int16" Value="1"/>
+									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F0AF7D2F-BC90-40E2-B882-42C11561D3B7}"/>
@@ -1007,6 +1016,9 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="BAS_Torch" ID="{C73BF496-CE07-48FF-86DC-D23379FF2396}" ShortID="953518726">
+									<PropertyList>
+										<Property Name="3DSpatialization" Type="int16" Value="1"/>
+									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F0AF7D2F-BC90-40E2-B882-42C11561D3B7}"/>
@@ -1029,6 +1041,9 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="BAS_Water_River" ID="{7938F3C3-7C2D-4770-A615-35214C77B038}" ShortID="926349705">
+									<PropertyList>
+										<Property Name="3DSpatialization" Type="int16" Value="2"/>
+									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F0AF7D2F-BC90-40E2-B882-42C11561D3B7}"/>
@@ -1051,6 +1066,9 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="BAS_Waterfall" ID="{E5289729-B352-4AEB-8CFD-A1FD6223FCCB}" ShortID="74767005">
+									<PropertyList>
+										<Property Name="3DSpatialization" Type="int16" Value="2"/>
+									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F0AF7D2F-BC90-40E2-B882-42C11561D3B7}"/>
@@ -1073,6 +1091,10 @@
 									</ActiveSourceList>
 								</Sound>
 								<RandomSequenceContainer Name="WaterDrops" ID="{3CE80BD7-8306-4239-B13D-1AE2F6B8BCCD}" ShortID="841316356">
+									<PropertyList>
+										<Property Name="3DSpatialization" Type="int16" Value="1"/>
+										<Property Name="RandomAvoidRepeatingCount" Type="int32" Value="2"/>
+									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F0AF7D2F-BC90-40E2-B882-42C11561D3B7}"/>
@@ -1217,6 +1239,9 @@
 									</ChildrenList>
 								</RandomSequenceContainer>
 								<RandomSequenceContainer Name="WindMillBlade" ID="{7221E163-D25E-44E1-A934-5506A63B5E0D}" ShortID="717122992">
+									<PropertyList>
+										<Property Name="3DSpatialization" Type="int16" Value="2"/>
+									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F0AF7D2F-BC90-40E2-B882-42C11561D3B7}"/>
@@ -1471,12 +1496,12 @@
 																					</Point>
 																					<Point>
 																						<XPos>6</XPos>
-																						<YPos>-0</YPos>
+																						<YPos>0</YPos>
 																						<Flags>0</Flags>
 																					</Point>
 																					<Point>
 																						<XPos>17.999</XPos>
-																						<YPos>-0</YPos>
+																						<YPos>0</YPos>
 																						<Flags>0</Flags>
 																					</Point>
 																					<Point>
@@ -1549,7 +1574,7 @@
 																				<PointList>
 																					<Point>
 																						<XPos>0</XPos>
-																						<YPos>-0</YPos>
+																						<YPos>0</YPos>
 																						<Flags>5</Flags>
 																					</Point>
 																					<Point>
@@ -1569,7 +1594,7 @@
 																					</Point>
 																					<Point>
 																						<XPos>18</XPos>
-																						<YPos>-0</YPos>
+																						<YPos>0</YPos>
 																						<Flags>0</Flags>
 																					</Point>
 																					<Point>
@@ -1666,12 +1691,12 @@
 																				<PointList>
 																					<Point>
 																						<XPos>0</XPos>
-																						<YPos>-0</YPos>
+																						<YPos>0</YPos>
 																						<Flags>5</Flags>
 																					</Point>
 																					<Point>
 																						<XPos>5.999</XPos>
-																						<YPos>-0</YPos>
+																						<YPos>0</YPos>
 																						<Flags>0</Flags>
 																					</Point>
 																					<Point>
@@ -1848,7 +1873,7 @@
 																					</Point>
 																					<Point>
 																						<XPos>6</XPos>
-																						<YPos>-0</YPos>
+																						<YPos>0</YPos>
 																						<Flags>0</Flags>
 																					</Point>
 																					<Point>
@@ -1936,7 +1961,7 @@
 																					</Point>
 																					<Point>
 																						<XPos>6</XPos>
-																						<YPos>-0</YPos>
+																						<YPos>0</YPos>
 																						<Flags>0</Flags>
 																					</Point>
 																					<Point>
