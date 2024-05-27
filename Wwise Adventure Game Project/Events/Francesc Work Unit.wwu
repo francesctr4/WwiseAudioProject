@@ -129,7 +129,13 @@
 					<ChildrenList>
 						<Event Name="UI_QuestRoll_Show" ID="{212D710D-0316-483B-8F54-FD539A6FF69B}">
 							<ChildrenList>
-								<Action Name="" ID="{9CA65341-90BE-4749-84C7-5CDD0C7CD167}" ShortID="496188272"/>
+								<Action Name="" ID="{9CA65341-90BE-4749-84C7-5CDD0C7CD167}" ShortID="496188272">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="BAS_QuestRoll_Show" ID="{A0F94580-7CCE-47D7-8109-20B3AC176412}" WorkUnitID="{EEA2D0CE-0C7D-4F34-88FB-2DBCA6F73C06}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
 							</ChildrenList>
 						</Event>
 						<Event Name="UI_QuestRoll_Open" ID="{9B2E8046-5A6D-4D9E-8863-479779FF604A}">
@@ -156,17 +162,35 @@
 						</Event>
 						<Event Name="UI_QuestRoll_Hide" ID="{780CECCD-84E8-4D34-83A4-EB70D2071359}">
 							<ChildrenList>
-								<Action Name="" ID="{C444742C-6651-4A34-833B-742AC7FFCE3F}" ShortID="43467585"/>
+								<Action Name="" ID="{C444742C-6651-4A34-833B-742AC7FFCE3F}" ShortID="43467585">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="BAS_QuestRoll_Hide" ID="{6AB41DF8-C15F-4791-8DC4-66DBAB969451}" WorkUnitID="{EEA2D0CE-0C7D-4F34-88FB-2DBCA6F73C06}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
 							</ChildrenList>
 						</Event>
 						<Event Name="Quest_Complete" ID="{BF00F494-DF86-414E-A58A-F0A8B2122CAD}">
 							<ChildrenList>
-								<Action Name="" ID="{03F018D8-1B61-487D-8799-6D8F99199379}" ShortID="295553195"/>
+								<Action Name="" ID="{03F018D8-1B61-487D-8799-6D8F99199379}" ShortID="295553195">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="BAS_QuestRoll_CompleteStep" ID="{525B9080-5E92-494C-B63E-D0F843952151}" WorkUnitID="{EEA2D0CE-0C7D-4F34-88FB-2DBCA6F73C06}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
 							</ChildrenList>
 						</Event>
 						<Event Name="Quest_CompleteCollection" ID="{8FF96862-E203-440C-8C77-A4213EB93C4E}">
 							<ChildrenList>
-								<Action Name="" ID="{E9BFEC37-9517-41EC-BF8F-D7D3CF68D9BC}" ShortID="253189557"/>
+								<Action Name="" ID="{E9BFEC37-9517-41EC-BF8F-D7D3CF68D9BC}" ShortID="253189557">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="BAS_QuestRoll_CompleteCollection" ID="{B69A8137-82FB-4C69-A65A-364C56F1A74C}" WorkUnitID="{EEA2D0CE-0C7D-4F34-88FB-2DBCA6F73C06}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
 							</ChildrenList>
 						</Event>
 					</ChildrenList>
