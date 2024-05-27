@@ -4,6 +4,13 @@
 		<WorkUnit Name="Francesc Work Unit" ID="{EE10AE14-3C14-4820-ADE6-1BDD654923F7}" PersistMode="Standalone">
 			<ChildrenList>
 				<MusicPlaylistContainer Name="Music Loop" ID="{3871943A-3140-4E3A-B506-37D5C0DF8085}" ShortID="693692626">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-9</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F0AF7D2F-BC90-40E2-B882-42C11561D3B7}"/>
