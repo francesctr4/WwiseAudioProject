@@ -1,0 +1,12 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2541270269	Destruction_VolcanicBoulder_Impact			\Francesc Work Unit\Destruction\Destruction_VolcanicBoulder_Impact	
+	3408705206	Ambient_Region_Desert			\Mario Work Unit\Ambient\Ambient_Region_Desert	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	207908541	Time_of_Day			\Mario Work Unit\Time_of_Day	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	6605067	BAS_amb_desert_day_background_loop_01	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_amb_desert_day_background_loop_01_9EDFC787.wem		\Actor-Mixer Hierarchy\Mario Work Unit\Ambient\General Emitter\Desert\BAS_amb_desert_day_background_loop_01		1672727
+	208263254	BAS_amb_desert_night_background_loop_01	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_amb_desert_night_background_loop_01_9EDFC787.wem		\Actor-Mixer Hierarchy\Mario Work Unit\Ambient\General Emitter\Desert\BAS_amb_desert_night_background_loop_01		993696
+	1024974894	Explosion	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\Volcanic Boulder\Explosion_10C4C929.wem		\Actor-Mixer Hierarchy\Francesc Work Unit\Destruction\Volcanic Boulder\Explosion		768160
+

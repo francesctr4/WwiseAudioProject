@@ -1,0 +1,1487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="145">
+	<RootPaths>
+		<ProjectRoot>../../../../../../../../../Users/TheFr/OneDrive/Documentos/GitHub/WwiseAudioProject/Wwise Adventure Game Project</ProjectRoot>
+		<SourceFilesRoot>../../../../../../../../../Users/TheFr/OneDrive/Documentos/GitHub/WwiseAudioProject/Wwise Adventure Game Project/.cache/Windows</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>../../../../../../../../../Users/TheFr/OneDrive/Documentos/GitHub/WwiseAudioProject/Wwise Adventure Game Project/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="133642231" Type="User" Language="SFX" Hash="{A6FF2B7A-B3AB-B251-46C6-D3C335A5AF3F}">
+			<ShortName>General</ShortName>
+			<Path>General.bnk</Path>
+			<Media>
+				<File Id="13526250" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Wood\BAS_Player_Footstep_wood_run_02.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Wood/BAS_Player_Footstep_wood_run_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="14602944" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Sand\BAS_Player_Footstep_sand_walk_06.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Sand/BAS_Player_Footstep_sand_walk_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="18405151" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_02.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Grass/BAS_Player_Footstep_grass_walk_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="36539885" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Inventory_Select.wav</ShortName>
+					<CachePath>SFX/BAS_Inventory_Select_10C4C929.wem</CachePath>
+				</File>
+				<File Id="36740477" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Rubble\BAS_Player_Footstep_rubble_walk_05.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Rubble/BAS_Player_Footstep_rubble_walk_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="40987624" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Water\BAS_Player_Footstep_water_run_04.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Water/BAS_Player_Footstep_water_run_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="47495919" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Axe_SurfaceType_Stone.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Axe_SurfaceType_Stone_10C4C929.wem</CachePath>
+				</File>
+				<File Id="58998238" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Crate_Destroy_04.wav</ShortName>
+					<CachePath>SFX/BAS_Crate_Destroy_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="64515631" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Rubble\BAS_Player_Footstep_rubble_run_04.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Rubble/BAS_Player_Footstep_rubble_run_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="75697501" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Dirt\BAS_Player_Footstep_dirt_run_04.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Dirt/BAS_Player_Footstep_dirt_run_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="102571161" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Sand\BAS_Player_Footstep_sand_run_02.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Sand/BAS_Player_Footstep_sand_run_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="113654615" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Rubble\BAS_Player_Footstep_rubble_run_01.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Rubble/BAS_Player_Footstep_rubble_run_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="120523823" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Stone\BAS_Player_Footstep_stone_walk_01.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Stone/BAS_Player_Footstep_stone_walk_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="126024015" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_PickAxe_SurfaceType_Crate.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_PickAxe_SurfaceType_Crate_10C4C929.wem</CachePath>
+				</File>
+				<File Id="130942821" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Stone\BAS_Player_Footstep_stone_walk_04.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Stone/BAS_Player_Footstep_stone_walk_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="152570453" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_06.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Grass/BAS_Player_Footstep_grass_walk_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="157734107" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_05.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Grass/BAS_Player_Footstep_grass_walk_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="157864008" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Wood\BAS_Player_Footstep_wood_walk_01.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Wood/BAS_Player_Footstep_wood_walk_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="159470684" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Dagger_SurfaceType_Grass.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Dagger_SurfaceType_Grass_10C4C929.wem</CachePath>
+				</File>
+				<File Id="168883857" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Water\BAS_Player_Footstep_water_walk_03.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Water/BAS_Player_Footstep_water_walk_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="192753142" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Village_120BPM_4_4_L8M_P1M.wav</ShortName>
+					<CachePath>SFX/Village_120BPM_4_4_L8M_P1M_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="193372031" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Cave_Silent_WwizardHouse_120BPM_L8M_P0.wav</ShortName>
+					<CachePath>SFX/Cave_Silent_WwizardHouse_120BPM_L8M_P0_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="195737813" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Inventory_Close.wav</ShortName>
+					<CachePath>SFX/BAS_Inventory_Close_10C4C929.wem</CachePath>
+				</File>
+				<File Id="209327340" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Water\BAS_Player_Footstep_water_run_06.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Water/BAS_Player_Footstep_water_run_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="220816912" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Crate_Destroy_06.wav</ShortName>
+					<CachePath>SFX/BAS_Crate_Destroy_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="223813321" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_QuestRoll_Hide.wav</ShortName>
+					<CachePath>SFX/BAS_QuestRoll_Hide_10C4C929.wem</CachePath>
+				</File>
+				<File Id="224311021" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Axe_SurfaceType_Dirt.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Axe_SurfaceType_Dirt_10C4C929.wem</CachePath>
+				</File>
+				<File Id="248535274" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Grass\BAS_Player_Footstep_grass_run_04.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Grass/BAS_Player_Footstep_grass_run_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="262536021" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Sand\BAS_Player_Footstep_sand_run_04.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Sand/BAS_Player_Footstep_sand_run_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="277244004" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Crystal_Ringing.wav</ShortName>
+					<CachePath>SFX/BAS_Crystal_Ringing_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="280014341" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Dungeon_120BPM_4_4_L8M_P1M.wav</ShortName>
+					<CachePath>SFX/Dungeon_120BPM_4_4_L8M_P1M_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="293302684" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Dagger_SurfaceType_Dirt.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Dagger_SurfaceType_Dirt_10C4C929.wem</CachePath>
+				</File>
+				<File Id="310711816" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_QuestRoll_Open.wav</ShortName>
+					<CachePath>SFX/BAS_QuestRoll_Open_10C4C929.wem</CachePath>
+				</File>
+				<File Id="312481873" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Dagger_SurfaceType_Crate.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Dagger_SurfaceType_Crate_10C4C929.wem</CachePath>
+				</File>
+				<File Id="314394751" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Torch.wav</ShortName>
+					<CachePath>SFX/BAS_Torch_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="315398673" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Dagger_SurfaceType_Barrel.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Dagger_SurfaceType_Barrel_10C4C929.wem</CachePath>
+				</File>
+				<File Id="325279972" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Stone\BAS_Player_Footstep_stone_walk_05.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Stone/BAS_Player_Footstep_stone_walk_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="339127734" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Crate_Destroy_05.wav</ShortName>
+					<CachePath>SFX/BAS_Crate_Destroy_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="344312876" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Sand\BAS_Player_Footstep_sand_walk_05.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Sand/BAS_Player_Footstep_sand_walk_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="345917813" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Wood\BAS_Player_Footstep_wood_run_06.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Wood/BAS_Player_Footstep_wood_run_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="350062556" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Water\BAS_Player_Footstep_water_walk_06.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Water/BAS_Player_Footstep_water_walk_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="375028595" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Rubble\BAS_Player_Footstep_rubble_run_06.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Rubble/BAS_Player_Footstep_rubble_run_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="382004430" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Wood\BAS_Player_Footstep_wood_run_03.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Wood/BAS_Player_Footstep_wood_run_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="395745258" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_03.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Dirt/BAS_Player_Footstep_dirt_walk_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="409777183" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Stone\BAS_Player_Footstep_stone_run_05.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Stone/BAS_Player_Footstep_stone_run_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="420894935" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Sword_SurfaceType_Stone.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Sword_SurfaceType_Stone_10C4C929.wem</CachePath>
+				</File>
+				<File Id="441894670" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Stone\BAS_Player_Footstep_stone_walk_03.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Stone/BAS_Player_Footstep_stone_walk_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="442684008" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Sand\BAS_Player_Footstep_sand_run_05.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Sand/BAS_Player_Footstep_sand_run_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="453400719" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Rubble\BAS_Player_Footstep_rubble_run_05.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Rubble/BAS_Player_Footstep_rubble_run_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="454690251" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Wood\BAS_Player_Footstep_wood_walk_06.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Wood/BAS_Player_Footstep_wood_walk_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="467371039" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Axe_SurfaceType_Leaves.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Axe_SurfaceType_Leaves_10C4C929.wem</CachePath>
+				</File>
+				<File Id="492077400" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Inventory_Scroll.wav</ShortName>
+					<CachePath>SFX/BAS_Inventory_Scroll_10C4C929.wem</CachePath>
+				</File>
+				<File Id="497807794" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Dirt\BAS_Player_Footstep_dirt_run_03.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Dirt/BAS_Player_Footstep_dirt_run_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="502572742" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_01.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Grass/BAS_Player_Footstep_grass_walk_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="514300062" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Sand\BAS_Player_Footstep_sand_run_01.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Sand/BAS_Player_Footstep_sand_run_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="526088708" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Wood\BAS_Player_Footstep_wood_run_01.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Wood/BAS_Player_Footstep_wood_run_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="527926240" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Lava.wav</ShortName>
+					<CachePath>SFX/BAS_Lava_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="530484072" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Hammer_SurfaceType_Barrel.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Hammer_SurfaceType_Barrel_10C4C929.wem</CachePath>
+				</File>
+				<File Id="532187731" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Wood\BAS_Player_Footstep_wood_walk_03.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Wood/BAS_Player_Footstep_wood_walk_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="539461767" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Rubble\BAS_Player_Footstep_rubble_walk_04.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Rubble/BAS_Player_Footstep_rubble_walk_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="546229911" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Stone\BAS_Player_Footstep_stone_walk_02.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Stone/BAS_Player_Footstep_stone_walk_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="556242338" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Wood\BAS_Player_Footstep_wood_run_04.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Wood/BAS_Player_Footstep_wood_run_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="567098661" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Sword_SurfaceType_Wood.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Sword_SurfaceType_Wood_10C4C929.wem</CachePath>
+				</File>
+				<File Id="576485429" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Sword_SurfaceType_Leaves.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Sword_SurfaceType_Leaves_10C4C929.wem</CachePath>
+				</File>
+				<File Id="586816610" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Sand\BAS_Player_Footstep_sand_run_06.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Sand/BAS_Player_Footstep_sand_run_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="590156653" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Rubble\BAS_Player_Footstep_rubble_run_03.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Rubble/BAS_Player_Footstep_rubble_run_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="593037825" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Wood\BAS_Player_Footstep_wood_walk_05.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Wood/BAS_Player_Footstep_wood_walk_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="608577052" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Stone\BAS_Player_Footstep_stone_walk_06.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Stone/BAS_Player_Footstep_stone_walk_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="609269450" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Nowhere_120BPM_4_4_L8M_P0.wav</ShortName>
+					<CachePath>SFX/Nowhere_120BPM_4_4_L8M_P0_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="614236484" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Dagger_SurfaceType_Wood.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Dagger_SurfaceType_Wood_10C4C929.wem</CachePath>
+				</File>
+				<File Id="617965885" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Woodlands_Night_120BPM_4_4_L8M_P1M.wav</ShortName>
+					<CachePath>SFX/Woodlands_Night_120BPM_4_4_L8M_P1M_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="619543314" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Stone\BAS_Player_Footstep_stone_run_04.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Stone/BAS_Player_Footstep_stone_run_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="628121402" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Water\BAS_Player_Footstep_water_walk_01.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Water/BAS_Player_Footstep_water_walk_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="646576842" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Sand\BAS_Player_Footstep_sand_walk_02.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Sand/BAS_Player_Footstep_sand_walk_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="647391437" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Water\BAS_Player_Footstep_water_walk_05.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Water/BAS_Player_Footstep_water_walk_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="649766873" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_05.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Dirt/BAS_Player_Footstep_dirt_walk_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="651510374" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Stone\BAS_Player_Footstep_stone_run_01.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Stone/BAS_Player_Footstep_stone_run_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="658387746" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Axe_SurfaceType_Crate.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Axe_SurfaceType_Crate_10C4C929.wem</CachePath>
+				</File>
+				<File Id="661934222" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Sword_SurfaceType_Barrel.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Sword_SurfaceType_Barrel_10C4C929.wem</CachePath>
+				</File>
+				<File Id="664219479" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_PickAxe_SurfaceType_Barrel.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_PickAxe_SurfaceType_Barrel_10C4C929.wem</CachePath>
+				</File>
+				<File Id="665737118" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Sword_SurfaceType_Crate.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Sword_SurfaceType_Crate_10C4C929.wem</CachePath>
+				</File>
+				<File Id="669719906" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Stone\BAS_Player_Footstep_stone_run_02.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Stone/BAS_Player_Footstep_stone_run_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="685920145" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Dagger_SurfaceType_Stone.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Dagger_SurfaceType_Stone_10C4C929.wem</CachePath>
+				</File>
+				<File Id="693963943" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Hammer_SurfaceType_Crate.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Hammer_SurfaceType_Crate_10C4C929.wem</CachePath>
+				</File>
+				<File Id="695333041" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Dirt\BAS_Player_Footstep_dirt_run_01.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Dirt/BAS_Player_Footstep_dirt_run_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="708484657" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Sword_SurfaceType_Grass.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Sword_SurfaceType_Grass_10C4C929.wem</CachePath>
+				</File>
+				<File Id="711302071" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Wood\BAS_Player_Footstep_wood_walk_02.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Wood/BAS_Player_Footstep_wood_walk_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="716725059" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Dagger_SurfaceType_Leaves.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Dagger_SurfaceType_Leaves_10C4C929.wem</CachePath>
+				</File>
+				<File Id="719217898" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Sand\BAS_Player_Footstep_sand_run_03.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Sand/BAS_Player_Footstep_sand_run_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="719421041" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Crate_Destroy_02.wav</ShortName>
+					<CachePath>SFX/BAS_Crate_Destroy_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="725760358" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Grass\BAS_Player_Footstep_grass_run_02.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Grass/BAS_Player_Footstep_grass_run_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="730942823" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Water\BAS_Player_Footstep_water_walk_04.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Water/BAS_Player_Footstep_water_walk_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="737871982" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>418862-PM-LB-DESIGNED-SWISH-WHOOSH-ARM-MOVEMENT-FABRIC-15.wav</ShortName>
+					<CachePath>SFX/418862-PM-LB-DESIGNED-SWISH-WHOOSH-ARM-MOVEMENT-FABRIC-15_10C4C929.wem</CachePath>
+				</File>
+				<File Id="746913209" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Sand\BAS_Player_Footstep_sand_walk_04.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Sand/BAS_Player_Footstep_sand_walk_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="763222029" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Dirt\BAS_Player_Footstep_dirt_run_06.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Dirt/BAS_Player_Footstep_dirt_run_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="764552165" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Rubble\BAS_Player_Footstep_rubble_run_02.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Rubble/BAS_Player_Footstep_rubble_run_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="778029545" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Axe_SurfaceType_Barrel.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Axe_SurfaceType_Barrel_10C4C929.wem</CachePath>
+				</File>
+				<File Id="786422141" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Stone\BAS_Player_Footstep_stone_run_06.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Stone/BAS_Player_Footstep_stone_run_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="810079712" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Sword_SurfaceType_Dirt.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Sword_SurfaceType_Dirt_10C4C929.wem</CachePath>
+				</File>
+				<File Id="812478473" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_QuestRoll_Close.wav</ShortName>
+					<CachePath>SFX/BAS_QuestRoll_Close_10C4C929.wem</CachePath>
+				</File>
+				<File Id="816136890" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Water\BAS_Player_Footstep_water_run_03.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Water/BAS_Player_Footstep_water_run_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="823595577" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Sand\BAS_Player_Footstep_sand_walk_01.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Sand/BAS_Player_Footstep_sand_walk_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="825612526" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Wood\BAS_Player_Footstep_wood_run_05.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Wood/BAS_Player_Footstep_wood_run_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="825898078" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Grass\BAS_Player_Footstep_grass_run_05.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Grass/BAS_Player_Footstep_grass_run_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="835263792" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_01.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Dirt/BAS_Player_Footstep_dirt_walk_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="858984076" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_03.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Grass/BAS_Player_Footstep_grass_walk_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="870103579" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Grass\BAS_Player_Footstep_grass_run_03.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Grass/BAS_Player_Footstep_grass_run_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="872776208" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Inventory_Open.wav</ShortName>
+					<CachePath>SFX/BAS_Inventory_Open_10C4C929.wem</CachePath>
+				</File>
+				<File Id="883455865" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Water\BAS_Player_Footstep_water_run_02.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Water/BAS_Player_Footstep_water_run_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="889031420" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Desert_120BPM_4_4_L8M_P0.wav</ShortName>
+					<CachePath>SFX/Desert_120BPM_4_4_L8M_P0_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="913459422" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_02.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Dirt/BAS_Player_Footstep_dirt_walk_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="932258676" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Water\BAS_Player_Footstep_water_walk_02.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Water/BAS_Player_Footstep_water_walk_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="936893986" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Rubble\BAS_Player_Footstep_rubble_walk_03.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Rubble/BAS_Player_Footstep_rubble_walk_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="937720922" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_06.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Dirt/BAS_Player_Footstep_dirt_walk_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="942378951" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Crate_Destroy_01.wav</ShortName>
+					<CachePath>SFX/BAS_Crate_Destroy_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="942858809" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Rubble\BAS_Player_Footstep_rubble_walk_06.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Rubble/BAS_Player_Footstep_rubble_walk_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="961024847" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_04.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Grass/BAS_Player_Footstep_grass_walk_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="962476492" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Water\BAS_Player_Footstep_water_run_01.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Water/BAS_Player_Footstep_water_run_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="969846795" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Water\BAS_Player_Footstep_water_run_05.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Water/BAS_Player_Footstep_water_run_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="991377936" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Rubble\BAS_Player_Footstep_rubble_walk_02.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Rubble/BAS_Player_Footstep_rubble_walk_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="1005020557" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>422826-ESM-Military-Objective-Complete-2-Mobile-App-Game-FX-Sound-Magic-Fantasy-Musical-Element-Transition-Chord-.wav</ShortName>
+					<CachePath>SFX/422826-ESM-Military-Objective-Complete-2-Mobile-App-Game-FX-Sound-Magic-Fantasy-Musical-Element-Transition-Chord-_10C4C929.wem</CachePath>
+				</File>
+				<File Id="1024810274" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Grass\BAS_Player_Footstep_grass_run_01.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Grass/BAS_Player_Footstep_grass_run_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="1026191111" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Dirt\BAS_Player_Footstep_dirt_run_05.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Dirt/BAS_Player_Footstep_dirt_run_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="1031521640" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Sand\BAS_Player_Footstep_sand_walk_03.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Sand/BAS_Player_Footstep_sand_walk_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="1036964221" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Stone\BAS_Player_Footstep_stone_run_03.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Stone/BAS_Player_Footstep_stone_run_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="1042796355" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_04.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Dirt/BAS_Player_Footstep_dirt_walk_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="1046082905" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Crate_Destroy_03.wav</ShortName>
+					<CachePath>SFX/BAS_Crate_Destroy_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="1050475202" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Impact_Axe_SurfaceType_Grass.wav</ShortName>
+					<CachePath>SFX/BAS_Impact_Axe_SurfaceType_Grass_10C4C929.wem</CachePath>
+				</File>
+				<File Id="1055834696" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Grass\BAS_Player_Footstep_grass_run_06.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Grass/BAS_Player_Footstep_grass_run_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="1057929391" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Run\Dirt\BAS_Player_Footstep_dirt_run_02.wav</ShortName>
+					<CachePath>SFX/Footsteps/Run/Dirt/BAS_Player_Footstep_dirt_run_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="1065280587" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Walk\Wood\BAS_Player_Footstep_wood_walk_04.wav</ShortName>
+					<CachePath>SFX/Footsteps/Walk/Wood/BAS_Player_Footstep_wood_walk_04_10C4C929.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3664581270" Name="Ambient_Campfire_Play">
+					<MediaRefs>
+						<MediaRef Id="314394751"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="100151336" Name="Ambient_Campfire_Stop"/>
+				<Event Id="2355650095" Name="Ambient_Crystal_Hum">
+					<MediaRefs>
+						<MediaRef Id="277244004"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="4275106484" Name="Ambient_Lava">
+					<MediaRefs>
+						<MediaRef Id="527926240"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="120976108" Name="Ambient_Torch">
+					<MediaRefs>
+						<MediaRef Id="314394751"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="4254124015" Name="Destruction_Container">
+					<MediaRefs>
+						<MediaRef Id="58998238"/>
+						<MediaRef Id="220816912"/>
+						<MediaRef Id="339127734"/>
+						<MediaRef Id="719421041"/>
+						<MediaRef Id="942378951"/>
+						<MediaRef Id="1046082905"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3741135221" Name="Music_Region">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="2106907484" Id="4122393694"/>
+							<MediaRefs>
+								<MediaRef Id="193372031"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="2106907484" Id="1850388778"/>
+							<MediaRefs>
+								<MediaRef Id="889031420"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="2106907484" Id="608898761"/>
+							<MediaRefs>
+								<MediaRef Id="280014341"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="2106907484" Id="748895195"/>
+							<MediaRefs>
+								<MediaRef Id="193372031"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="2106907484" Id="3424056949"/>
+							<MediaRefs>
+								<MediaRef Id="609269450"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="2106907484" Id="3160623154"/>
+							<MediaRefs>
+								<MediaRef Id="193372031"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="2106907484" Id="3945572659"/>
+							<MediaRefs>
+								<MediaRef Id="192753142"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="2106907484" Id="1421251628"/>
+							<MediaRefs>
+								<MediaRef Id="617965885"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="2106907484" Id="3132368115"/>
+							<MediaRefs>
+								<MediaRef Id="193372031"/>
+							</MediaRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="2453392179" Name="Player_Footstep">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4064446173" Id="1216965916"/>
+							<MediaRefs>
+								<MediaRef Id="120523823"/>
+								<MediaRef Id="130942821"/>
+								<MediaRef Id="325279972"/>
+								<MediaRef Id="441894670"/>
+								<MediaRef Id="546229911"/>
+								<MediaRef Id="608577052"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4064446173" Id="803837735"/>
+							<MediaRefs>
+								<MediaRef Id="14602944"/>
+								<MediaRef Id="344312876"/>
+								<MediaRef Id="646576842"/>
+								<MediaRef Id="746913209"/>
+								<MediaRef Id="823595577"/>
+								<MediaRef Id="1031521640"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4064446173" Id="2195636714"/>
+							<MediaRefs>
+								<MediaRef Id="395745258"/>
+								<MediaRef Id="649766873"/>
+								<MediaRef Id="835263792"/>
+								<MediaRef Id="913459422"/>
+								<MediaRef Id="937720922"/>
+								<MediaRef Id="1042796355"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4064446173" Id="2058049674"/>
+							<MediaRefs>
+								<MediaRef Id="157864008"/>
+								<MediaRef Id="454690251"/>
+								<MediaRef Id="532187731"/>
+								<MediaRef Id="593037825"/>
+								<MediaRef Id="711302071"/>
+								<MediaRef Id="1065280587"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4064446173" Id="2654748154"/>
+							<MediaRefs>
+								<MediaRef Id="168883857"/>
+								<MediaRef Id="350062556"/>
+								<MediaRef Id="628121402"/>
+								<MediaRef Id="647391437"/>
+								<MediaRef Id="730942823"/>
+								<MediaRef Id="932258676"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4064446173" Id="4248645337" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="18405151"/>
+								<MediaRef Id="152570453"/>
+								<MediaRef Id="157734107"/>
+								<MediaRef Id="502572742"/>
+								<MediaRef Id="858984076"/>
+								<MediaRef Id="961024847"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4064446173" Id="286660663"/>
+							<MediaRefs>
+								<MediaRef Id="36740477"/>
+								<MediaRef Id="539461767"/>
+								<MediaRef Id="936893986"/>
+								<MediaRef Id="942858809"/>
+								<MediaRef Id="991377936"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4064446173" Id="1216965916"/>
+							<MediaRefs>
+								<MediaRef Id="409777183"/>
+								<MediaRef Id="619543314"/>
+								<MediaRef Id="651510374"/>
+								<MediaRef Id="669719906"/>
+								<MediaRef Id="786422141"/>
+								<MediaRef Id="1036964221"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4064446173" Id="803837735"/>
+							<MediaRefs>
+								<MediaRef Id="102571161"/>
+								<MediaRef Id="262536021"/>
+								<MediaRef Id="442684008"/>
+								<MediaRef Id="514300062"/>
+								<MediaRef Id="586816610"/>
+								<MediaRef Id="719217898"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4064446173" Id="2195636714"/>
+							<MediaRefs>
+								<MediaRef Id="75697501"/>
+								<MediaRef Id="497807794"/>
+								<MediaRef Id="695333041"/>
+								<MediaRef Id="763222029"/>
+								<MediaRef Id="1026191111"/>
+								<MediaRef Id="1057929391"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4064446173" Id="2058049674"/>
+							<MediaRefs>
+								<MediaRef Id="13526250"/>
+								<MediaRef Id="345917813"/>
+								<MediaRef Id="382004430"/>
+								<MediaRef Id="526088708"/>
+								<MediaRef Id="556242338"/>
+								<MediaRef Id="825612526"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4064446173" Id="2654748154"/>
+							<MediaRefs>
+								<MediaRef Id="40987624"/>
+								<MediaRef Id="209327340"/>
+								<MediaRef Id="816136890"/>
+								<MediaRef Id="883455865"/>
+								<MediaRef Id="962476492"/>
+								<MediaRef Id="969846795"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4064446173" Id="4248645337" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="248535274"/>
+								<MediaRef Id="725760358"/>
+								<MediaRef Id="825898078"/>
+								<MediaRef Id="870103579"/>
+								<MediaRef Id="1024810274"/>
+								<MediaRef Id="1055834696"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4064446173" Id="286660663"/>
+							<MediaRefs>
+								<MediaRef Id="64515631"/>
+								<MediaRef Id="113654615"/>
+								<MediaRef Id="375028595"/>
+								<MediaRef Id="453400719"/>
+								<MediaRef Id="590156653"/>
+								<MediaRef Id="764552165"/>
+							</MediaRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3695342915" Name="Player_WeaponImpact">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3251833556" Id="3732162827" Default="true"/>
+							<Children>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="1216965916"/>
+									<MediaRefs>
+										<MediaRef Id="685920145"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="442447909"/>
+									<MediaRefs>
+										<MediaRef Id="315398673"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="2195636714"/>
+									<MediaRefs>
+										<MediaRef Id="293302684"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="2058049674"/>
+									<MediaRefs>
+										<MediaRef Id="614236484"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="582824249"/>
+									<MediaRefs>
+										<MediaRef Id="716725059"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="3098439042" Default="true"/>
+									<MediaRefs>
+										<MediaRef Id="312481873"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="4248645337"/>
+									<MediaRefs>
+										<MediaRef Id="159470684"/>
+									</MediaRefs>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3251833556" Id="765201635"/>
+							<Children>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="1216965916"/>
+									<MediaRefs>
+										<MediaRef Id="47495919"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="442447909"/>
+									<MediaRefs>
+										<MediaRef Id="778029545"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="2195636714"/>
+									<MediaRefs>
+										<MediaRef Id="224311021"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="582824249"/>
+									<MediaRefs>
+										<MediaRef Id="467371039"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="3098439042" Default="true"/>
+									<MediaRefs>
+										<MediaRef Id="658387746"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="4248645337"/>
+									<MediaRefs>
+										<MediaRef Id="1050475202"/>
+									</MediaRefs>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3251833556" Id="703486095"/>
+							<Children>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="442447909"/>
+									<MediaRefs>
+										<MediaRef Id="530484072"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="3098439042" Default="true"/>
+									<MediaRefs>
+										<MediaRef Id="693963943"/>
+									</MediaRefs>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3251833556" Id="490825222"/>
+							<Children>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="442447909"/>
+									<MediaRefs>
+										<MediaRef Id="664219479"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="3098439042" Default="true"/>
+									<MediaRefs>
+										<MediaRef Id="126024015"/>
+									</MediaRefs>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3251833556" Id="2454616260"/>
+							<Children>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="1216965916"/>
+									<MediaRefs>
+										<MediaRef Id="420894935"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="442447909"/>
+									<MediaRefs>
+										<MediaRef Id="661934222"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="2195636714"/>
+									<MediaRefs>
+										<MediaRef Id="810079712"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="2058049674"/>
+									<MediaRefs>
+										<MediaRef Id="567098661"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="582824249"/>
+									<MediaRefs>
+										<MediaRef Id="576485429"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="3098439042" Default="true"/>
+									<MediaRefs>
+										<MediaRef Id="665737118"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="4064446173" Id="4248645337"/>
+									<MediaRefs>
+										<MediaRef Id="708484657"/>
+									</MediaRefs>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3240473869" Name="Quest_Complete">
+					<MediaRefs>
+						<MediaRef Id="36539885"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="844130829" Name="Quest_CompleteCollection">
+					<MediaRefs>
+						<MediaRef Id="1005020557"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="452547817" Name="Stop_All"/>
+				<Event Id="2278290679" Name="UI_Inventory_Close">
+					<MediaRefs>
+						<MediaRef Id="195737813"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2199611969" Name="UI_Inventory_Open">
+					<MediaRefs>
+						<MediaRef Id="872776208"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3749307760" Name="UI_Inventory_Roll">
+					<MediaRefs>
+						<MediaRef Id="492077400"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="808893336" Name="UI_QuestRoll_Close">
+					<MediaRefs>
+						<MediaRef Id="812478473"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2792117052" Name="UI_QuestRoll_Hide">
+					<MediaRefs>
+						<MediaRef Id="223813321"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="949395292" Name="UI_QuestRoll_Open">
+					<MediaRefs>
+						<MediaRef Id="310711816"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3699139167" Name="UI_QuestRoll_Show">
+					<MediaRefs>
+						<MediaRef Id="737871982"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+			<GameParameters>
+				<GameParameter Id="2471758783" Name="Player_MovementSpeed"/>
+				<GameParameter Id="2642438544" Name="MenuSlider_Music_Volume"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="2106907484" Name="Music_Regions">
+					<States>
+						<State Id="608898761" Name="Dungeon"/>
+						<State Id="748895195" Name="None"/>
+						<State Id="1421251628" Name="Woodlands"/>
+						<State Id="1850388778" Name="Desert"/>
+						<State Id="3132368115" Name="WwizardHouse"/>
+						<State Id="3160623154" Name="Silent"/>
+						<State Id="3424056949" Name="Nowhere"/>
+						<State Id="3945572659" Name="Village"/>
+						<State Id="4122393694" Name="Cave"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="3251833556" Name="Player_Weapon_Type">
+					<Switches>
+						<Switch Id="490825222" Name="PickAxe"/>
+						<Switch Id="703486095" Name="Hammer"/>
+						<Switch Id="765201635" Name="Axe"/>
+						<Switch Id="2454616260" Name="Sword"/>
+						<Switch Id="3732162827" Name="Dagger"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="4064446173" Name="Surface_Type">
+					<Switches>
+						<Switch Id="286660663" Name="Rubble"/>
+						<Switch Id="389757836" Name="Agent"/>
+						<Switch Id="442447909" Name="Barrel"/>
+						<Switch Id="582824249" Name="Leaves"/>
+						<Switch Id="803837735" Name="Sand"/>
+						<Switch Id="1216965916" Name="Stone"/>
+						<Switch Id="1647104456" Name="Enemy_EvilCrawler"/>
+						<Switch Id="2058049674" Name="Wood"/>
+						<Switch Id="2195636714" Name="Dirt"/>
+						<Switch Id="2473969246" Name="Metal"/>
+						<Switch Id="2654748154" Name="Water"/>
+						<Switch Id="3065846598" Name="Enemy_EvilHead"/>
+						<Switch Id="3098439042" Name="Crate"/>
+						<Switch Id="3276966729" Name="Enemy_EvilSpitPlant"/>
+						<Switch Id="3444057113" Name="Crystal"/>
+						<Switch Id="4248645337" Name="Grass"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="152105657" Type="User" Language="SFX" Hash="{4693279E-EB0C-411A-2334-1080F5F20DD8}">
+			<ShortName>TitleScreen</ShortName>
+			<Path>TitleScreen.bnk</Path>
+			<Media>
+				<File Id="167712373" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>TitleScreen_120BPM_4_4_L41M_P2M.wav</ShortName>
+					<CachePath>SFX/TitleScreen_120BPM_4_4_L41M_P2M_D79FB2B7.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1532327793" Name="Music_TitleScreen">
+					<MediaRefs>
+						<MediaRef Id="167712373"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="608898761" Type="User" Language="SFX" Hash="{7FE56FD6-A4B5-D4FB-EBD0-0EA64FA91CDB}">
+			<ShortName>Dungeon</ShortName>
+			<Path>Dungeon.bnk</Path>
+			<Media>
+				<File Id="122900934" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Destroy_Rock_01.wav</ShortName>
+					<CachePath>SFX/BAS_Destroy_Rock_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="148373058" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_amb_dungeon_day_background_loop_01.wav</ShortName>
+					<CachePath>SFX/BAS_amb_dungeon_day_background_loop_01_9EDFC787.wem</CachePath>
+				</File>
+				<File Id="366638170" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Destroy_Rock_02.wav</ShortName>
+					<CachePath>SFX/BAS_Destroy_Rock_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="860220459" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Destroy_Rock_03.wav</ShortName>
+					<CachePath>SFX/BAS_Destroy_Rock_03_10C4C929.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="4077685701" Name="Ambient_Region_Dungeon">
+					<MediaRefs>
+						<MediaRef Id="148373058"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1999886838" Name="Destruction_Rock_Destroy">
+					<MediaRefs>
+						<MediaRef Id="122900934"/>
+						<MediaRef Id="366638170"/>
+						<MediaRef Id="860220459"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+			<GameParameters>
+				<GameParameter Id="207908541" Name="Time_of_Day"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{ECD76D29-D92E-E6AB-EB59-A00BD4633459}">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<ShareSets>
+					<Plugin Id="2995775460" Name="Room_Small" LibName="Wwise RoomVerb" LibId="7733251"/>
+				</ShareSets>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="3803692087" Name="Master Audio Bus"/>
+			</Busses>
+			<AuxBusses>
+				<AuxBus Id="243931001" Name="Dungeon_Forge">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="2995775460"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="425911480" Name="Dungeon_Library_Statue">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="2995775460"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="567469275" Name="Dungeon_PathToForge">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="2995775460"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="1156828694" Name="Dungeon_Entrance">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="2995775460"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="1941785149" Name="Dungeon_Library">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="2995775460"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="2026127448" Name="Dungeon_MezzanineRoomEntrance">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="2995775460"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="2106540524" Name="Dungeon_RoadToCore">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="2995775460"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="2213850905" Name="Dungeon_Core">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="2995775460"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="3352684520" Name="CaveEntrance">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="2995775460"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="4122393694" Name="Cave">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="2995775460"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="4158999182" Name="Dungeon_MezzanineRoom">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="2995775460"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+			</AuxBusses>
+			<GameParameters>
+				<GameParameter Id="207908541" Name="Time_of_Day"/>
+				<GameParameter Id="1333239961" Name="MenuSlider_Master_Volume"/>
+				<GameParameter Id="2471758783" Name="Player_MovementSpeed"/>
+				<GameParameter Id="2642438544" Name="MenuSlider_Music_Volume"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="2106907484" Name="Music_Regions">
+					<States>
+						<State Id="608898761" Name="Dungeon"/>
+						<State Id="748895195" Name="None"/>
+						<State Id="1421251628" Name="Woodlands"/>
+						<State Id="1850388778" Name="Desert"/>
+						<State Id="3132368115" Name="WwizardHouse"/>
+						<State Id="3160623154" Name="Silent"/>
+						<State Id="3424056949" Name="Nowhere"/>
+						<State Id="3945572659" Name="Village"/>
+						<State Id="4122393694" Name="Cave"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="3251833556" Name="Player_Weapon_Type">
+					<Switches>
+						<Switch Id="490825222" Name="PickAxe"/>
+						<Switch Id="703486095" Name="Hammer"/>
+						<Switch Id="765201635" Name="Axe"/>
+						<Switch Id="2454616260" Name="Sword"/>
+						<Switch Id="3732162827" Name="Dagger"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="4064446173" Name="Surface_Type">
+					<Switches>
+						<Switch Id="286660663" Name="Rubble"/>
+						<Switch Id="389757836" Name="Agent"/>
+						<Switch Id="442447909" Name="Barrel"/>
+						<Switch Id="582824249" Name="Leaves"/>
+						<Switch Id="803837735" Name="Sand"/>
+						<Switch Id="1216965916" Name="Stone"/>
+						<Switch Id="1647104456" Name="Enemy_EvilCrawler"/>
+						<Switch Id="2058049674" Name="Wood"/>
+						<Switch Id="2195636714" Name="Dirt"/>
+						<Switch Id="2473969246" Name="Metal"/>
+						<Switch Id="2654748154" Name="Water"/>
+						<Switch Id="3065846598" Name="Enemy_EvilHead"/>
+						<Switch Id="3098439042" Name="Crate"/>
+						<Switch Id="3276966729" Name="Enemy_EvilSpitPlant"/>
+						<Switch Id="3444057113" Name="Crystal"/>
+						<Switch Id="4248645337" Name="Grass"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="1421251628" Type="User" Language="SFX" Hash="{00F11868-D905-7B65-3957-0F8387AF1867}">
+			<ShortName>Woodlands</ShortName>
+			<Path>Woodlands.bnk</Path>
+			<Media>
+				<File Id="225272359" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>amb_forest_night_background_loop_02.wav</ShortName>
+					<CachePath>SFX/amb_forest_night_background_loop_02_3F75BDB9.wem</CachePath>
+				</File>
+				<File Id="421645186" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>amb_forest_night_background_loop_04.wav</ShortName>
+					<CachePath>SFX/amb_forest_night_background_loop_04_3F75BDB9.wem</CachePath>
+				</File>
+				<File Id="948595684" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Waterfall.wav</ShortName>
+					<CachePath>SFX/BAS_Waterfall_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="1023429169" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_amb_forest_day_background_loop_01.wav</ShortName>
+					<CachePath>SFX/BAS_amb_forest_day_background_loop_01_9EDFC787.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1049266392" Name="Ambient_Region_Woodlands">
+					<MediaRefs>
+						<MediaRef Id="225272359"/>
+						<MediaRef Id="421645186"/>
+						<MediaRef Id="1023429169"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1934835592" Name="Ambient_Waterfall">
+					<MediaRefs>
+						<MediaRef Id="948595684"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+			<GameParameters>
+				<GameParameter Id="207908541" Name="Time_of_Day"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="1850388778" Type="User" Language="SFX" Hash="{8AC37E47-90B6-2B1E-7C69-FF3E208A8755}">
+			<ShortName>Desert</ShortName>
+			<Path>Desert.bnk</Path>
+			<Media>
+				<File Id="6605067" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_amb_desert_day_background_loop_01.wav</ShortName>
+					<CachePath>SFX/BAS_amb_desert_day_background_loop_01_9EDFC787.wem</CachePath>
+				</File>
+				<File Id="208263254" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_amb_desert_night_background_loop_01.wav</ShortName>
+					<CachePath>SFX/BAS_amb_desert_night_background_loop_01_9EDFC787.wem</CachePath>
+				</File>
+				<File Id="1024974894" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Volcanic Boulder\Explosion.wav</ShortName>
+					<CachePath>SFX/Volcanic Boulder/Explosion_10C4C929.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3408705206" Name="Ambient_Region_Desert">
+					<MediaRefs>
+						<MediaRef Id="6605067"/>
+						<MediaRef Id="208263254"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2541270269" Name="Destruction_VolcanicBoulder_Impact">
+					<MediaRefs>
+						<MediaRef Id="1024974894"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+			<GameParameters>
+				<GameParameter Id="207908541" Name="Time_of_Day"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="2201105581" Type="User" Language="SFX" Hash="{84B8EFEA-16D1-7FEB-E00A-7FD5C2BABAB3}">
+			<ShortName>Credits</ShortName>
+			<Path>Credits.bnk</Path>
+			<Media>
+				<File Id="241681075" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Credits_120BPM_4_4_L8M_P0.wav</ShortName>
+					<CachePath>SFX/Credits_120BPM_4_4_L8M_P0_D79FB2B7.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1882971781" Name="Music_Credits">
+					<MediaRefs>
+						<MediaRef Id="241681075"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="2482365692" Type="User" Language="SFX" Hash="{B7511248-8624-D7C3-CD0B-BE8A1A065F8F}">
+			<ShortName>PineForest</ShortName>
+			<Path>PineForest.bnk</Path>
+			<Media>
+				<File Id="549311622" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_amb_pineforest_night_background_loop_01.wav</ShortName>
+					<CachePath>SFX/BAS_amb_pineforest_night_background_loop_01_9EDFC787.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="808171864" Name="Ambient_Region_PineForest">
+					<MediaRefs>
+						<MediaRef Id="549311622"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+			<GameParameters>
+				<GameParameter Id="207908541" Name="Time_of_Day"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="3945572659" Type="User" Language="SFX" Hash="{DC697E11-BB99-BEF9-716C-613D8CEB8DA8}">
+			<ShortName>Village</ShortName>
+			<Path>Village.bnk</Path>
+			<Media>
+				<File Id="22114434" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_amb_village_night_background_loop_01.wav</ShortName>
+					<CachePath>SFX/BAS_amb_village_night_background_loop_01_9EDFC787.wem</CachePath>
+				</File>
+				<File Id="382655684" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_WindMillBlade_01.wav</ShortName>
+					<CachePath>SFX/BAS_WindMillBlade_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="622235823" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_WindMillBlade_03.wav</ShortName>
+					<CachePath>SFX/BAS_WindMillBlade_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="708827630" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_amb_village_day_background_loop_01.wav</ShortName>
+					<CachePath>SFX/BAS_amb_village_day_background_loop_01_9EDFC787.wem</CachePath>
+				</File>
+				<File Id="880474918" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Water_River.wav</ShortName>
+					<CachePath>SFX/BAS_Water_River_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="1022742384" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_WindMillBlade_02.wav</ShortName>
+					<CachePath>SFX/BAS_WindMillBlade_02_10C4C929.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2752753183" Name="Ambient_Region_Village">
+					<MediaRefs>
+						<MediaRef Id="22114434"/>
+						<MediaRef Id="708827630"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2258053876" Name="Ambient_River">
+					<MediaRefs>
+						<MediaRef Id="880474918"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2208964750" Name="Ambient_Windmill">
+					<MediaRefs>
+						<MediaRef Id="382655684"/>
+						<MediaRef Id="622235823"/>
+						<MediaRef Id="1022742384"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+			<GameParameters>
+				<GameParameter Id="207908541" Name="Time_of_Day"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="4122393694" Type="User" Language="SFX" Hash="{90B23E62-0A82-3B2E-FD72-FD1848510926}">
+			<ShortName>Cave</ShortName>
+			<Path>Cave.bnk</Path>
+			<Media>
+				<File Id="22563363" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_WaterDrops_03.wav</ShortName>
+					<CachePath>SFX/BAS_WaterDrops_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="254543170" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_WaterDrops_04.wav</ShortName>
+					<CachePath>SFX/BAS_WaterDrops_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="436106737" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_Crystals_Destroy.wav</ShortName>
+					<CachePath>SFX/BAS_Crystals_Destroy_10C4C929.wem</CachePath>
+				</File>
+				<File Id="478143648" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_WaterDrops_01.wav</ShortName>
+					<CachePath>SFX/BAS_WaterDrops_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="602577785" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_WaterDrops_05.wav</ShortName>
+					<CachePath>SFX/BAS_WaterDrops_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="811075755" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_amb_cave_background_LP.wav</ShortName>
+					<CachePath>SFX/BAS_amb_cave_background_LP_9EDFC787.wem</CachePath>
+				</File>
+				<File Id="1055642126" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_WaterDrops_02.wav</ShortName>
+					<CachePath>SFX/BAS_WaterDrops_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="1063896159" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BAS_WaterDrops_06.wav</ShortName>
+					<CachePath>SFX/BAS_WaterDrops_06_10C4C929.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1331382810" Name="Ambient_Region_Cave">
+					<MediaRefs>
+						<MediaRef Id="811075755"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2644063196" Name="Ambient_WaterDrop">
+					<MediaRefs>
+						<MediaRef Id="22563363"/>
+						<MediaRef Id="254543170"/>
+						<MediaRef Id="478143648"/>
+						<MediaRef Id="602577785"/>
+						<MediaRef Id="1055642126"/>
+						<MediaRef Id="1063896159"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="448719855" Name="Destruction_Crystal_Destroy">
+					<MediaRefs>
+						<MediaRef Id="436106737"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{1887C22D-5E0D-80D8-111D-16C03B62D5F2}</FileHash>
+</SoundBanksInfo>

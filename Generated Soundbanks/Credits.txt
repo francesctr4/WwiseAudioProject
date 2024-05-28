@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1882971781	Music_Credits			\Francesc Work Unit\Music\Music_Credits	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	241681075	Credits_120BPM_4_4_L8M_P0	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\Credits_120BPM_4_4_L8M_P0_D79FB2B7.wem		\Interactive Music Hierarchy\Francesc Work Unit\Credits\Credits_120BPM_4_4_L8M_P0\Credits_120BPM_4_4_L8M_P0		3840160
+

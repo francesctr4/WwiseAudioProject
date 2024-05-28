@@ -1,0 +1,13 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1049266392	Ambient_Region_Woodlands			\Mario Work Unit\Ambient\Ambient_Region_Woodlands	
+	1934835592	Ambient_Waterfall			\Mario Work Unit\Ambient\3D Emitters\Ambient_Waterfall	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	207908541	Time_of_Day			\Mario Work Unit\Time_of_Day	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	225272359	amb_forest_night_background_loop_02	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\amb_forest_night_background_loop_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Mario Work Unit\Ambient\General Emitter\Forest\Forest Night\amb_forest_night_background_loop_02		385120
+	421645186	amb_forest_night_background_loop_04	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\amb_forest_night_background_loop_04_3F75BDB9.wem		\Actor-Mixer Hierarchy\Mario Work Unit\Ambient\General Emitter\Forest\Forest Night\amb_forest_night_background_loop_04		353634
+	948595684	BAS_Waterfall	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_Waterfall_D79FB2B7.wem		\Actor-Mixer Hierarchy\Mario Work Unit\Ambient\3D Emitters\BAS_Waterfall		768096
+	1023429169	BAS_amb_forest_day_background_loop_01	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_amb_forest_day_background_loop_01_9EDFC787.wem		\Actor-Mixer Hierarchy\Mario Work Unit\Ambient\General Emitter\Forest\BAS_amb_forest_day_background_loop_01		2544214
+

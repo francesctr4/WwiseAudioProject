@@ -1,0 +1,15 @@
+Event	ID	Name			Wwise Object Path	Notes
+	448719855	Destruction_Crystal_Destroy			\Francesc Work Unit\Destruction\Destruction_Crystal_Destroy	
+	1331382810	Ambient_Region_Cave			\Mario Work Unit\Ambient\Ambient_Region_Cave	
+	2644063196	Ambient_WaterDrop			\Mario Work Unit\Ambient\3D Emitters\Ambient_WaterDrop	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	22563363	BAS_WaterDrops_03	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_WaterDrops_03_10C4C929.wem		\Actor-Mixer Hierarchy\Mario Work Unit\Ambient\3D Emitters\WaterDrops\BAS_WaterDrops_03		51296
+	254543170	BAS_WaterDrops_04	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_WaterDrops_04_10C4C929.wem		\Actor-Mixer Hierarchy\Mario Work Unit\Ambient\3D Emitters\WaterDrops\BAS_WaterDrops_04		57440
+	436106737	BAS_Crystals_Destroy	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_Crystals_Destroy_10C4C929.wem		\Actor-Mixer Hierarchy\Francesc Work Unit\Destruction\Crystal\BAS_Crystals_Destroy		191808
+	478143648	BAS_WaterDrops_01	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_WaterDrops_01_10C4C929.wem		\Actor-Mixer Hierarchy\Mario Work Unit\Ambient\3D Emitters\WaterDrops\BAS_WaterDrops_01		28768
+	602577785	BAS_WaterDrops_05	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_WaterDrops_05_10C4C929.wem		\Actor-Mixer Hierarchy\Mario Work Unit\Ambient\3D Emitters\WaterDrops\BAS_WaterDrops_05		43296
+	811075755	BAS_amb_cave_background_LP	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_amb_cave_background_LP_9EDFC787.wem		\Actor-Mixer Hierarchy\Mario Work Unit\Ambient\General Emitter\Cave\BAS_amb_cave_background_LP		1166744
+	1055642126	BAS_WaterDrops_02	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_WaterDrops_02_10C4C929.wem		\Actor-Mixer Hierarchy\Mario Work Unit\Ambient\3D Emitters\WaterDrops\BAS_WaterDrops_02		39008
+	1063896159	BAS_WaterDrops_06	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_WaterDrops_06_10C4C929.wem		\Actor-Mixer Hierarchy\Mario Work Unit\Ambient\3D Emitters\WaterDrops\BAS_WaterDrops_06		77856
+

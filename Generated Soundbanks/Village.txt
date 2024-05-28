@@ -1,0 +1,16 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2208964750	Ambient_Windmill			\Mario Work Unit\Ambient\3D Emitters\Ambient_Windmill	
+	2258053876	Ambient_River			\Mario Work Unit\Ambient\3D Emitters\Ambient_River	
+	2752753183	Ambient_Region_Village			\Mario Work Unit\Ambient\Ambient_Region_Village	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	207908541	Time_of_Day			\Mario Work Unit\Time_of_Day	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	22114434	BAS_amb_village_night_background_loop_01	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_amb_village_night_background_loop_01_9EDFC787.wem		\Actor-Mixer Hierarchy\Mario Work Unit\Ambient\General Emitter\Village\BAS_amb_village_night_background_loop_01		2090713
+	382655684	BAS_WindMillBlade_01	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_WindMillBlade_01_10C4C929.wem		\Actor-Mixer Hierarchy\Mario Work Unit\Ambient\3D Emitters\WindMillBlade\BAS_WindMillBlade_01		1622112
+	622235823	BAS_WindMillBlade_03	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_WindMillBlade_03_10C4C929.wem		\Actor-Mixer Hierarchy\Mario Work Unit\Ambient\3D Emitters\WindMillBlade\BAS_WindMillBlade_03		352352
+	708827630	BAS_amb_village_day_background_loop_01	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_amb_village_day_background_loop_01_9EDFC787.wem		\Actor-Mixer Hierarchy\Mario Work Unit\Ambient\General Emitter\Village\BAS_amb_village_day_background_loop_01		2379853
+	880474918	BAS_Water_River	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_Water_River_D79FB2B7.wem		\Actor-Mixer Hierarchy\Mario Work Unit\Ambient\3D Emitters\BAS_Water_River		3072160
+	1022742384	BAS_WindMillBlade_02	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_WindMillBlade_02_10C4C929.wem		\Actor-Mixer Hierarchy\Mario Work Unit\Ambient\3D Emitters\WindMillBlade\BAS_WindMillBlade_02		1163360
+

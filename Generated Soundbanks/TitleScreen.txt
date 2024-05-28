@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1532327793	Music_TitleScreen			\Francesc Work Unit\Music\Music_TitleScreen	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	167712373	TitleScreen_120BPM_4_4_L41M_P2M	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\TitleScreen_120BPM_4_4_L41M_P2M_D79FB2B7.wem		\Interactive Music Hierarchy\Francesc Work Unit\TitleScreen\TitleScreen_120BPM_4_4_L41M_P2M\TitleScreen_120BPM_4_4_L41M_P2M		17664096
+

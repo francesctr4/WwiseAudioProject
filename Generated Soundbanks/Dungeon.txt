@@ -1,0 +1,13 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1999886838	Destruction_Rock_Destroy			\Francesc Work Unit\Destruction\Destruction_Rock_Destroy	
+	4077685701	Ambient_Region_Dungeon			\Mario Work Unit\Ambient\Ambient_Region_Dungeon	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	207908541	Time_of_Day			\Mario Work Unit\Time_of_Day	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	122900934	BAS_Destroy_Rock_01	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_Destroy_Rock_01_10C4C929.wem		\Actor-Mixer Hierarchy\Francesc Work Unit\Destruction\Rock\BAS_Destroy_Rock_01		105568
+	148373058	BAS_amb_dungeon_day_background_loop_01	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_amb_dungeon_day_background_loop_01_9EDFC787.wem		\Actor-Mixer Hierarchy\Mario Work Unit\Ambient\General Emitter\Dungeon\BAS_amb_dungeon_day_background_loop_01		1738759
+	366638170	BAS_Destroy_Rock_02	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_Destroy_Rock_02_10C4C929.wem		\Actor-Mixer Hierarchy\Francesc Work Unit\Destruction\Rock\BAS_Destroy_Rock_02		119904
+	860220459	BAS_Destroy_Rock_03	C:\Users\TheFr\OneDrive\Documentos\GitHub\WwiseAudioProject\Wwise Adventure Game Project\.cache\Windows\SFX\BAS_Destroy_Rock_03_10C4C929.wem		\Actor-Mixer Hierarchy\Francesc Work Unit\Destruction\Rock\BAS_Destroy_Rock_03		87136
+
