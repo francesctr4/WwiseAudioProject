@@ -12,12 +12,17 @@
 						<ObjectRef Name="Quest_CompleteCollection" ID="{8FF96862-E203-440C-8C77-A4213EB93C4E}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_QuestRoll_Close" ID="{020D0A69-DED7-459F-B43A-71A38C6A4701}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Destruction_Container" ID="{2A30F459-BE84-4627-AEDA-07640CFC9E9A}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Ambient_Campfire_Play" ID="{664B0B25-BFEF-4741-BEC3-BE037FE62795}" WorkUnitID="{22484103-5A76-4B23-884C-467A777268D6}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Player_WeaponImpact" ID="{A7369F7A-839A-476C-82AC-0386E776A432}" WorkUnitID="{22484103-5A76-4B23-884C-467A777268D6}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_QuestRoll_Show" ID="{212D710D-0316-483B-8F54-FD539A6FF69B}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Ambient_Lava" ID="{14EE3A8C-1A48-485A-8451-CB0CADCA3BA4}" WorkUnitID="{22484103-5A76-4B23-884C-467A777268D6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Ambient_Campfire_Stop" ID="{E69B013F-BD81-4A31-8B93-E78FB9ECAD72}" WorkUnitID="{22484103-5A76-4B23-884C-467A777268D6}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Player_Footstep" ID="{EDF121B4-37FB-4A82-A052-5B66C78ADFAB}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Ambient_Crystal_Hum" ID="{F404C948-BA48-4B8F-B86A-281CF8C5DD03}" WorkUnitID="{22484103-5A76-4B23-884C-467A777268D6}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Music_Region" ID="{7976C6B0-5885-4CD6-9E74-3A2DFE8E1089}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_QuestRoll_Hide" ID="{780CECCD-84E8-4D34-83A4-EB70D2071359}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_QuestRoll_Open" ID="{9B2E8046-5A6D-4D9E-8863-479779FF604A}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Ambient_Torch" ID="{DD14EA75-5BC1-4FB7-A9A5-6E74FFC8F559}" WorkUnitID="{22484103-5A76-4B23-884C-467A777268D6}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

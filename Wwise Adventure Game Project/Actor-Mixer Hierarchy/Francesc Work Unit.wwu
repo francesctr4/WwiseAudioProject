@@ -2297,6 +2297,13 @@
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="Explosion" ID="{B4667667-2157-44EC-AF3C-34B943F07FF5}" ShortID="434034514">
+									<PropertyList>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-18</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F0AF7D2F-BC90-40E2-B882-42C11561D3B7}"/>
@@ -2326,6 +2333,11 @@
 						<RandomSequenceContainer Name="Container" ID="{0E040213-9702-4ADA-A135-680834D2ADF0}" ShortID="408428138">
 							<PropertyList>
 								<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-6</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -2473,6 +2485,11 @@
 						<RandomSequenceContainer Name="Crystal" ID="{19B5FB30-58F2-4035-946D-19B075563D0B}" ShortID="543627370">
 							<PropertyList>
 								<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-6</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -2510,6 +2527,11 @@
 						<RandomSequenceContainer Name="Rock" ID="{0D63D85B-D79A-41C1-A280-14EEFD722D13}" ShortID="335240602">
 							<PropertyList>
 								<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-6</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
