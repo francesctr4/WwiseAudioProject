@@ -14,6 +14,7 @@
 						<ObjectRef Name="Destruction_Container" ID="{2A30F459-BE84-4627-AEDA-07640CFC9E9A}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Ambient_Campfire_Play" ID="{664B0B25-BFEF-4741-BEC3-BE037FE62795}" WorkUnitID="{22484103-5A76-4B23-884C-467A777268D6}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Player_WeaponImpact" ID="{A7369F7A-839A-476C-82AC-0386E776A432}" WorkUnitID="{22484103-5A76-4B23-884C-467A777268D6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_All" ID="{87B728D7-7346-4822-8EA8-CBACDBBF6B76}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="UI_QuestRoll_Show" ID="{212D710D-0316-483B-8F54-FD539A6FF69B}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Ambient_Lava" ID="{14EE3A8C-1A48-485A-8451-CB0CADCA3BA4}" WorkUnitID="{22484103-5A76-4B23-884C-467A777268D6}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Ambient_Campfire_Stop" ID="{E69B013F-BD81-4A31-8B93-E78FB9ECAD72}" WorkUnitID="{22484103-5A76-4B23-884C-467A777268D6}" Origin="Manual" Filter="7"/>
@@ -78,7 +79,14 @@
 				</SoundBank>
 				<SoundBank Name="TitleScreen" ID="{FC7E5FBC-9EB2-4F80-A5FB-97D187D31D6E}">
 					<ObjectInclusionList>
-						<ObjectRef Name="Ambient_Region_Woodlands" ID="{4AB9CC71-2D60-4480-AA89-F52185419725}" WorkUnitID="{22484103-5A76-4B23-884C-467A777268D6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Music_TitleScreen" ID="{C12B3400-E7DA-452E-9728-454E4D4363C0}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Credits" ID="{B64DC81D-8A49-4BA7-9083-4EE066E9EE46}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Music_Credits" ID="{746FABF3-B327-4484-9391-5E2068412899}" WorkUnitID="{9FD14345-DD6D-47C8-B365-0258AFA9CA66}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

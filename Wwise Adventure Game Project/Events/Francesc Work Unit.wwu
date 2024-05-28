@@ -95,7 +95,29 @@
 								<Action Name="" ID="{33D0620A-42D7-4733-BC8D-A5A7E9BBCC1D}" ShortID="988438186">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="Music Loop" ID="{3871943A-3140-4E3A-B506-37D5C0DF8085}" WorkUnitID="{EE10AE14-3C14-4820-ADE6-1BDD654923F7}"/>
+											<ObjectRef Name="Music Region" ID="{25D509E7-FA20-4D7B-8ACD-5494D94EA04A}" WorkUnitID="{EE10AE14-3C14-4820-ADE6-1BDD654923F7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Music_Credits" ID="{746FABF3-B327-4484-9391-5E2068412899}">
+							<ChildrenList>
+								<Action Name="" ID="{18079F7A-F11C-4034-A843-45B2142D6F74}" ShortID="312075983">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Credits" ID="{5E46B485-E9D0-4A47-9FDD-21D8553A3C69}" WorkUnitID="{EE10AE14-3C14-4820-ADE6-1BDD654923F7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Music_TitleScreen" ID="{C12B3400-E7DA-452E-9728-454E4D4363C0}">
+							<ChildrenList>
+								<Action Name="" ID="{84C369A1-C7AA-41AF-AA65-49304116FD51}" ShortID="1025990817">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="TitleScreen" ID="{B2821286-7684-4971-8606-F4B918DAA205}" WorkUnitID="{EE10AE14-3C14-4820-ADE6-1BDD654923F7}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
@@ -195,6 +217,16 @@
 						</Event>
 					</ChildrenList>
 				</Folder>
+				<Event Name="Stop_All" ID="{87B728D7-7346-4822-8EA8-CBACDBBF6B76}">
+					<ChildrenList>
+						<Action Name="" ID="{861AF816-9287-42DC-AEB2-A66A83E9FD78}" ShortID="911429117">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="3"/>
+							</PropertyList>
+							<ReferenceList/>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

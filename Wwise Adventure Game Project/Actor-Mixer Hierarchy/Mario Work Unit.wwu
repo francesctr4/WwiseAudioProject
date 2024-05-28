@@ -1792,6 +1792,7 @@
 				</Folder>
 				<ActorMixer Name="Weapons" ID="{8C8E5A1F-5D95-4C7C-B6DA-913481833B74}" ShortID="578516980">
 					<PropertyList>
+						<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
 						<Property Name="Volume" Type="Real64">
 							<ValueList>
 								<Value>-16</Value>
