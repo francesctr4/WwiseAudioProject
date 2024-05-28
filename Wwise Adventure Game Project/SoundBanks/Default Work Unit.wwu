@@ -76,6 +76,13 @@
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
+				<SoundBank Name="TitleScreen" ID="{FC7E5FBC-9EB2-4F80-A5FB-97D187D31D6E}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Ambient_Region_Woodlands" ID="{4AB9CC71-2D60-4480-AA89-F52185419725}" WorkUnitID="{22484103-5A76-4B23-884C-467A777268D6}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>
